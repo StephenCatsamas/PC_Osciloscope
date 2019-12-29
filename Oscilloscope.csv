@@ -1,0 +1,17 @@
+Reference, Quantity, Value, Footprint, Datasheet, Value, Type
+C1 C2 ,2,159 μF,,
+D1 D4 D5 D8 ,4,D,,
+D2 D6 ,2,36 V,,
+D3 D7 ,2,33V,,
+F1 F2 ,2,100 mA,,
+J1 ,1,JACK_TRS_6PINS,,
+P1 ,1,USB_A,,
+R1 R2 ,2,100 Ω,,,,Power Resistor
+R18 R3 ,2,22kΩ,,
+R16 R17 R4 R5 ,4,10kΩ,,
+R13 R8 ,2,18kΩ,,
+R10 R11 R12 R14 R15 R6 R7 R9 ,8,1kΩ,,
+RV1 RV2 RV5 RV6 ,4,50 kΩ,,
+RV3 RV4 ,2,Trimpot ,,,5 kΩ,
+SW1 SW2 ,2,SWITCH_INV,,
+U1 ,1,LM324N,,
